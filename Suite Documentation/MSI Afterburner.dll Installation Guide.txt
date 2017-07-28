@@ -1,0 +1,35 @@
+
+                                             ################################################################
+                                             #                                                              #
+                                             #            MSI Afterburner.dll Installation Guide            #
+                                             #                                                              #
+                                             #                   Requires MSI Afterburner                   # 
+                                             #                                                              #
+                                             #      http://event.msi.com/vga/afterburner/download.htm       #
+                                             #                                                              #
+                                             ################################################################
+
+
+If you didn't install the MSI Afterburner plugin when installing the skin, here is a guide to do a manual installation.
+To get the full potential out of this suite, you will need to install a custom plugin made by Stangowner. The plugin is entitled MSI Afterburner.dll. There are two versions of the plugin, 32 bit, and 64 bit. 
+
+1. First you will need to determine which version of Rainmeter you have. To do this, go to where you installed Rainmeter. 
+
+2. Default install directory: C:\Program Files\Rainmeter
+
+3. After you are in the install directory, right click on "Rainmeter.exe" and click properties. 
+
+4. When you are in the properties menu, click the details tab up at the top. When there, look at the "Product version" line. It should say the version of Rainmeter, and if you are running 32 bit, or 64 bit. 
+Ex: 2.5.0.1842 (64-Bit)
+
+5. Now that you have determined which version of Rainmeter you are running, download the same version.
+32 bit: http://rivatuner.doomdealer.com/afterburner/rainmeter/x86/MSIAfterburner.dll
+64 bit: http://rivatuner.doomdealer.com/afterburner/rainmeter/x64/MSIAfterburner.dll
+
+6. When you are done downloading, go to Rainmeters install directory and navigate to the "Plugins" folder. 
+
+7. After you are in the "Plugins" folder, place the recently downloaded "MSIAfterburner.dll" in the folder and you are done! 
+
+
+
+

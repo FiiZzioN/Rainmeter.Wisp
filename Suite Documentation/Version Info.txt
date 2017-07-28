@@ -1,0 +1,150 @@
+#########################################
+#                                       #
+#                v2.4.3                 #
+#                                       #
+#########################################
+
+Updated the weather parser to use Weather.com's new XML feed URL.
+
+#########################################
+#                                       #
+#                v2.4.2d                #
+#                                       #
+#########################################
+
+Changed Coretemp download link back to Mediafire because its parent website is being shown as Red Flagged. This event occurs differently depending on what web browser you're using. This will be the last time I change the download link unless it's absolutely necessary.
+
+Special thanks to user Unramaan for alerting me to this issue!
+
+#########################################
+#                                       #
+#                v2.4.2c                #
+#                                       #
+#########################################
+
+Changed Coretemp download link back to its parent website. There seem to be no more trojan warnings coming from the program's installer.
+
+::User Info::
+
+If this changes again, please, any new user please inform me! I'll have a clean, safe version of the program ready for download ASAP.
+
+#########################################
+#                                       #
+#                v2.4.2b                #
+#                                       #
+#########################################
+
+Changed Coretemp download link because of dropbox blocking my account due to too much traffic. The file is now being hosted on Mediafire.
+
+#########################################
+#                                       #
+#                v2.4.2                 #
+#                                       #
+#########################################
+
+Changed the CoreTemp download link. This is the correct, and clean, version of CoreTemp.
+
+#########################################
+#                                       #
+#                v2.4.1                 #
+#                                       #
+#########################################
+
+Temporarily took away the resolution request button.
+Removed the version history tab in the config.
+Other minor changes to the config.
+
+#########################################
+#                                       #
+#                 v2.4                  #
+#                                       #
+#########################################
+
+Added themes to the skins features.
+Added four themes: Green, Red, Blue, and Dark Orange
+
+#########################################
+#                                       #
+#                 v2.3                  #
+#                                       #
+#########################################
+
+Fixed Weather Code entry box not displaying in the proper location.
+
+Changed how the Recycle Bin app handled displaying the 'Empty' option when showing its current size.
+
+Better clarified how you should enter your email username and password.
+
+Added ‘Version Information’ tab to the config.
+
+Removed many duplicate and unused images.
+
+Added variable so users can more easily edit the maximum number of emails that the skin wil register.
+
+#########################################
+#                                       #
+#                 v2.2                  #
+#                                       #
+#########################################
+
+Added 1024 x 768 to the config.
+
+#########################################
+#                                       #
+#                 v2.1                  #
+#                                       #
+#########################################
+
+Fixed minor bug that would cause swap on the system taskbar to overlap other entries. 
+
+#########################################
+#                                       #
+#                 v2.0                  #
+#                                       #
+#########################################
+
+New Config app that supports the new features in version 2.0
+
+System taskbar added.
+
+Program taskbar added.
+
+Better support for the new D2D rendering engine in Rainmeter 3.0
+
+Fixed a bug where the SWAP values would go into massive negative numbers.
+
+Better way of making new resolutions. I'm still figuring out a way to make it 100% automatic.
+
+Mixed weather units. Example: Celsius while using Mph for windspeed.
+
+#########################################
+#                                       #
+#                 v1.2                  #
+#                                       #
+#########################################
+
+Now loads the Config.ini when installed.
+
+Added 1600 x 900 to the config.
+
+Fixed positioning of the Recycle Bin meter.
+
+Fixed random typos throughout the skin.
+
+#########################################
+#                                       #
+#                 v1.1                  #
+#                                       #
+#########################################
+
+Added different resolutions to the config
+
+#########################################
+#                                       #
+#                 v1.0                  #
+#                                       #
+#########################################
+
+Initial Release
+
+                                  

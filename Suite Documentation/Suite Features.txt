@@ -1,0 +1,40 @@
+
+##################################
+#                                #
+#            Features            #
+#                                #
+##################################
+
+
+*Interactive Configuration App (Config options are case sensitive!!)
+
+*Cpu (Overall Cpu usage. Temperature monitor.)
+
+*Memory (Ram usage and Swap usage.)
+
+*Drives (Drive usage, up to two drives.)
+
+*Gpu (Gpu usage and temperature. Currently supports one Gpu.) Will not work with Integrated Graphics!
+
+*Network (Net, up and down.)
+
+*Weather (Weather description, graphics, temperature, windspeed, wind direction, humidity, chance of rain, sunrise, and sunset. Up to three days.)
+
+*Email (Currently only supports Gmail.)
+
+*Recycle Bin (Monitors recycle bin size.)
+
+*Clock (Twelve hour and twenty-four hour clock modes.)
+
+*Date (Current day of the month, month, and year.)
+
+*Taskbar (System monitor, twelve and twenty-four hour. Program launcher, twelve and twenty-four hour. Supports five programs / urls)
+
+
+
+
+
+
+
+
+
