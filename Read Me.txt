@@ -1,0 +1,21 @@
+If you're reading this, then thank you for downloading Wisp! 
+
+Everything needed and seen in the screenshot is included in the downloaded file under the folder 'Suite AddOns'. This suite uses CoreTemp and MSI Afterburner to get all system information. 
+
+To download CoreTemp click the 'CoreTemp' internet link that was included with the download under the folder 'Suite AddOns'. The download link should be a blue button reading 'Download'.
+
+To download MSI Afterburner click the 'MSI Afterburner' internet link that was included with the download under the folder 'Suite AddOns'. The download link should be slightly to the left in a green arrow image reading 'Download MSI Afterburner'.
+
+The wallpaper has been included with the download under the folder 'Suite AddOns' and is labled 'Wallpaper.png'.
+
+If you want a wallpaper that has just the wooden panels, usually good for a secondary monitor, it's included in the 'Suite AddOns' folder and is labled 'Panels.png'.
+
+
+
+If you notice any bugs or want any features added, contact me at, 'fiiZzioN@gmail.com', my DeviantArt profile, 'FiiZzioN.deviantart.com' , or my Customize.org profile 'customize.org/FiiZzioN'. Once again, thanks for downloading Wisp!
+
+
+
+
+
+

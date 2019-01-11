@@ -32,10 +32,24 @@ ScreenHeight=1080
 MainFontSize=15
 WeatherFontSize=12
 
+
+
+
+
+
+CpuModuleFontSize=18
+CpuModuleFontColor=182,182,182
+
+
+
+
+
+
 ;The skin's main color scheme.
 ;Green - 107,168,13
-;Red - 164,29,46
-;Blue - 9,170,180
+;Red - 177,10,29
+;Cyan - 9,170,180
+;Blue - 14,107,189
 ;Orange - 162,58,27
 Theme=107,168,13
 
@@ -43,33 +57,44 @@ Theme=107,168,13
 ;Silver - 182,182,182
 ThemeSecondary=182,182,182
 
-;Overall color.
 BGColor=Green
-
 ;                                ; 
 ;             Drives             ; 
 ;                                ;
 
-;This is your primary drive, just put the letter of the drive here. For example, if I put 'C' here, it will show as the C:\ Drive. This option is here incase you want to change the orientation of where the core is placed in the HDD dropdown menu.
+;This is your primary drive, just put the letter of the drive here. For example, if I put 'C' here, it will show as the C:\ Drive. This option is here in case you want to change the orientation of where the core is placed in the HDD dropdown menu.
 DriveLetterOne=C
 
-;This is your secondary drive, just put the letter of the drive here. For example, if I put 'E' here, it will show as the E:\ Drive. This option is here incase you want to change the orientation of where the core is placed in the HDD dropdown menu.
+;This is your secondary drive, just put the letter of the drive here. For example, if I put 'E' here, it will show as the E:\ Drive. This option is here in case you want to change the orientation of where the core is placed in the HDD dropdown menu.
 DriveLetterTwo=E
+
+;                                ; 
+;           SWAP Value           ; 
+;                                ;
+
+;Maximum SWAP size that you want to be recognized by the skin, measured in bytes. Here is a conversion calculator so you can change the value if so desired: http://www.convertunits.com/from/GB/to/byte
+;Default value is 2 GB
+SWAPMaxValue=2147483648
+
 
 ;                                ; 
 ;             Network            ; 
 ;                                ;
 
 ;Minimum net in that you want to be recognized by the skin, measured in bits.
+;Default value is 0
 MinNetIn=0
 
 ;Maximum net total that you want to be recognized by the skin, measured in bits.
+;Default value is 26500000
 MaxNetIn=26500000
 
 ;Minimum net out that you want to be recognized by the skin, measured in bits.
+;Default value is 0
 MinNetOut=0
 
 ;Maximum net total that you want to be recognized by the skin, measured in bits.
+;Default value is 26500000
 MaxNetOut=26500000
 
 ;                                ; 
@@ -95,16 +120,19 @@ ButtonColor=Green
 Username=Username
 Password=Password
 
+;Default value is 25
 MaxEmailCount=25
 
 ;                                ; 
 ;          Recycle Bin           ; 
 ;                                ;
 
-;Minimum recycle bin size that you want to be recognized by the skin, measured in bytes. Here is a conversion calculater so you can change the value if so desired: http://www.convertunits.com/from/GB/to/byte
+;Minimum recycle bin size that you want to be recognized by the skin, measured in bytes. Here is a conversion calculator so you can change the value if so desired: http://www.convertunits.com/from/GB/to/byte
+;Default value is 0 GB
 MinRecycleBinSize=0
 
-;Maximum recycle bin size that you want to be recognized by the skin, measured in bytes. Here is a conversion calculater so you can change the value if so desired: http://www.convertunits.com/from/GB/to/byte
+;Maximum recycle bin size that you want to be recognized by the skin, measured in bytes. Here is a conversion calculator so you can change the value if so desired: http://www.convertunits.com/from/GB/to/byte
+;Default value is 1 GB
 MaxRecycleBinSize=1073741824
 
 ;                                ; 
@@ -113,6 +141,7 @@ MaxRecycleBinSize=1073741824
 
 ;For a 12 hour clock mode, put 'I'
 ;For a 24 hour clock mode, put 'H'
+;Default value is "I", or 12 hour mode.
 ClockMode=I
 
 ;                                ; 
@@ -124,9 +153,9 @@ SysTask=TwelveSystem.ini
 ProgTask=TwelveProgram.ini
 
 ;System taskbar size.
-SysTaskbarHeight=30
-SysTaskbarWidth=1680
-SysTaskbarFontSize=11
+SysTaskbarHeight=35
+SysTaskbarWidth=1920
+SysTaskbarFontSize=12
 
 ;Program taskbar size.
 ProgTaskbarHeight=35
@@ -152,6 +181,4 @@ Prog5Path="C:\Program Files\Rainmeter\Rainmeter.exe"
 
 Prog6=PhotoShop
 Prog6Path="C:\Program Files\Adobe\Adobe Photoshop CS6 (64 Bit)\Photoshop.exe"
-   
-  
 Button=1920x1080
