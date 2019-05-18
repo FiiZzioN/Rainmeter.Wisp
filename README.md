@@ -81,6 +81,13 @@ Resolutions made:
 -----------------------------------------------------------
 #### Versions!
 -----------------------------------------------------------
+* <b>v2.4.4:</b>
+    
+	- Drastically improved SWAP monitoring accuracy.
+	- Fixed layout loading "Illustro" skin items if it was installed on the system.
+	- Added deep blue color option and changed old "Blue" to "Cyan"
+
+
 * <b>v2.4.3:</b>
     
 	- Updated the weather parser to use Weather.com's new XML feed URL.
@@ -125,7 +132,7 @@ Resolutions made:
     - Fixed Weather Code entry box not displaying in the proper location.
     - Changed how the Recycle Bin app handled displaying the 'Empty' option when showing its current size.
     - Better clarified how you should enter your email username and password.
-    - Added ‘Version Information’ tab to the config.
+    - Added â€˜Version Informationâ€™ tab to the config.
     - Removed many duplicate and unused images.
     - Added variable so users can more easily edit the maximum number of emails that the skin will register.
 
